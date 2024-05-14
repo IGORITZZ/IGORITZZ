@@ -16,4 +16,5 @@
   <a href="https://www.instagram.com/igoritzz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
 </div>
-  
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=igoritzz&hide=contribs,issues&show_icons=true&bg_color=FFF&title_color=000&text_color=000&icon_color=000)](https://github.com/igoritzz/github-readme-stats)
